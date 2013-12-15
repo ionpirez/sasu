@@ -1,0 +1,26 @@
+.footer_menu {
+	background-color:#F2E5DC;
+	margin-top: 25px;
+}
+
+.footer_menu ul {
+	margin:0;
+	padding:0;
+}
+
+.footer_menu ul li {
+	border-bottom:1px solid #E8D1A7;
+	list-style:none outside none;
+	text-align:center;
+	width:100%;
+}
+
+.ui-body-c .footer_menu ul li a.ui-link {
+color: #9B8673;
+display: block;
+font-size: 12px;
+font-weight: 400;
+padding: 6px 0;
+text-decoration: none;
+text-transform: uppercase;
+}

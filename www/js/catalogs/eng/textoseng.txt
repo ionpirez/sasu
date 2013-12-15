@@ -1,0 +1,286 @@
+define({
+	 
+	//Barrio: Centro historico  / Tipo: Restaurantes
+	AZUL HISTÓRICO. Isabel la Católica 30; 5521 3295; azulhistorico.com; Mon-Sat 9 am- 11 pm, Sun 9 am-6 pm. Refined, “modern” Mexican in a buzzy, quite chic colonial courtyard.
+	CAFÉ DE TACUBA. Tacuba 28; 5518 4950; cafedetacuba.com. mx; open daily 8 am-11:30 pm. An immaculate “old Mexico” feel draws customers for Mexican basics. Evenings and Sundays feature serenading troubadours.
+	CAFÉ 123. Artículo 123 no. 123; 5512 1772; Tues-Sun 1-8 pm. An artsy beachhead in a gritty area that's coming up, for coffee, salad and sandwiches, these last with an Asian twist. The vintage trash-and- treasures décor is also for sale.
+	CASA DE ESPAÑA (INSIDE THE CASINO ESPAÑOL). Isabel la Católica 29; 5521 8894; cassatt. mx; open daily 8 am-6 pm. Once you've recovered from the soaring lobby, the stained glass, thousand-pound chandeliers and the coffered-ceiling ballroom, make your way to the upstairs dining room (or the casual downstairs cantina) for lunch with hard-coiffed señoras and downtown fat-cats.
+	COOX HANAL. Isabel la Católica 83; 5709 3613; cooxhanal. com.mx; open daily 10:30 am-6:30 pm (i.e., lunch only). Fans of food from theYucatán peninsula think it's the best thing west of Chichén Itzá. Sundays are a riot of mind- blowing live entertainment.
+	EL CARDENAL. Palma 23; 5521 8815; restauranteelcardenal. com; Mon-Sat 8 am 6:30 pm, Sun 9 am-6:30 pm. Famous for its power breakfast scene, but lunch is just as delicious. Very traditional Mexican recipes, exquisitely prepared.
+	EL MAYOR. República de Argentina 17 (on the roof of the Porrúa bookstore); 5704 7580; porrua.com/elmayor; Mon-Sat 9 am-6:30 pm, Sun 10 am-6:30 pm. A smart lunch spot for updated Mexican traditionals, with open-air views of the Cathedral, grand colonial palaces and the namesake Aztec temple. Ghostly, poetic and thrilling.
+	HOSTERÍA DE SANTO DOMINGO. Belisario Domínguez 72; 5526 5276; hosteriadesantodomingo. com.mx; Mon-Sat 9 am-10 pm, Sun 9 am-9 pm. Said to be the city's oldest restaurant, it has assuredly resisted attempts at modernization. Traditional Mexican recipes; afternoons are best.
+	LA CASA DE LAS SIRENAS. República de Guatemala 32; 5704 3345; lacasadelassirenas.com. mx; Mon-Sat 11 am-11 pm; Sun 11 am-6 pm. Flavorful Mexican food in a lopsided 17th-century townhouse; terrace tables offer an oblique view of the cathedral's architectural details. Perfect tortillas handmade by old gals that know what they're doing.
+	LIMOSNEROS. Allende 3; 5521 5576; limosneros.com.mx; Mon 1:30- 10 pm, Tues-Fri 1:30-11 pm, Sat 9 am-11 pm, Sun 9 am-7 pm. Intimate Mexican food; come hungry and order numerous courses. An excellent mescal selection rounds out the satisfaction.
+	ROLDÁN 37. Roldán 37; 5542 1951; Mon-Sat 10 am-10 pm, Sun 10 am-7 pm. Hand-crafted Mexican cuisine in a restored townhouse on a street few visitors reach. The chic/barrio combo is pure Mexico City.
+	SANBORNS MADERO (CASA DE LOS AZULEJOS). Francisco I. Madero 4; 5512 7824; sanborns. com.mx; open daily 9 am-1 am. The original Sanborns downtown— housed in a splendid 17th-century palace covered entirely in talavera tiles—is an essential DF experience. Food quality hovers at the level of a glorified coffee shop, so breakfast is a good time to go.
+
+	//Barrio: Centro historico / Tipo: Bares, Antros y Cantinas
+	BAR MANCERA. Venustiano Carranza 49; 5521 9755; open daily 10 am-8 pm. A great shabby-genteel venue, grandly appointed. Domino-slapping regulars by day; some nights go late and the hip kids come in.
+	LA ÓPERA. 5 de Mayo 10, at Filomeno Mata; 5512 8959; barlaopera.com; Mon-Sat 1 pm-12 am, Sun 1 pm-6 pm. Look for the legendary Pancho Villa bullet hole amid splendid belle- époque appointments. Strolling musicians make up in romance what they lack in strict musical training.
+	PASAGU?ERO. Motolinía 33; 5521 6112; Thurs-Sat 9 pm-3 am. Divey and very fun, with loud, live music—mostly rock and alternative vibes—plus an edgy crowd that's not as world-weary as it looks.
+	SALÓN PARÍS. Torres Bodet 152 at Salvador Díaz Mirón, Colonia Santa María la Ribera; 5547 3710; Mon-Fri 11 am-12 am; Sat 10:30 am-7 pm, Sun 11 am-6 pm. Soak up this neighborhood cantina whose art deco authenticity would pass muster with the hippest of Brooklynites.
+	TÍO PEPE. Independencia 26; 5521 9136; Mon-Thurs 12 pm-10 pm, Fri 12 pm-11 pm, Sat 12 pm-9:30 pm. Banged up belle- époque with patrons ranging from hipsters to lounge lizards. A far cry from swank but all are welcome.
+	ZINCO JAZZ CLUB. Motolinía 20; 5512 3369; zincojazz.com; Wed-Sat 9 pm-2 am. Elegant and intimate, like something from an old movie. Make reservations if someone big is playing.
+
+	//Barrio: Centro historico   / Tipo: Arte y Cultura
+	ANTIGUO COLEGIO DE SAN ILDEFONSO. Justo Sierra 16; 5702 2991; sanildefonso.org. mx; Tues 10 am-8 pm, Wed-Sun 10 am-6 pm. Closed Monday. A magnificent 18th-century pile that is home to innovative, well curated visual arts exhibitions.
+	MUSEO DE ARTE POPULAR. Revillagigedo 11; 5510 2201; map. df.gob.mx; Tues-Sun 10 am-6 pm, Thursdays till 9. Located in an art deco gem of a building, the MAP celebrates Mexico's rich folk art tradition. The museum shop is great for one-of-a-kind souvenirs.
+	MUSEO DEL ESTANQUILLO. Isabel la Católica 26; 5521 3052; museodelestanquillo.com; Wed-Mon 10 am-6 pm. An ever- changing, idiosyncratic collection of Mexican memorabilia featuring everything from caricatures and maps to ephemera and old movie star photos.
+	MUSEO DEL TEMPLO MAYOR. Seminario 8; 4040 5600; templomayor. inah.gob.mx; Tues-Sun 9 am-5 pm. The ruins of the Aztecs' principal temple and the site of their infamous human sacrifices.
+	MUSEO FRANZ MAYER. Avenida Hidalgo 45; 5518 2266; franzmayer.org.mx; Tues-Fri 10 am-5 pm, Sat-Sun 10 am-7 pm. A beautiful colonial construction houses collector Mayer's extensive decorative arts holdings; temporary exhibitions focus on design and photography.
+	MUSEO NACIONAL DE ARTE (MUNAL). Tacuba 8; 5130 3400; munal.com.mx; Tues-Sun 10:30 am- 5:30 pm. An exhaustive survey of Mexican art from the sixteenth to twentieth centuries. Its gorgeous beaux-arts home is worth the price of admission alone.
+	PALACIO DE BELLAS ARTES. Avenida Juárez at Eje Central; 5512 2593; bellasartes.gob.mx; Tues-Sun 10:30 am-5:30 pm. One of Mexico City's most recognizable landmarks, gorgeous inside and out, featuring revolving exhibitions. Famed murals by Siqueiros, Orozco, Tamayo, González Camarena and Rivera adorn the walls.
+	PALACIO DE CULTURA BANAMEX (ANTIGUO PALACIO DE ITURBIDE). Madero 17; 1226 0242; fomentoculturalbanamex. org; open daily 10 am-7 pm. An underrated venue featuring a revolving calendar of Mexican visual and decorative arts exhibitions. Its palace home is gorgeous. Bonus: a freebie, and open Mondays.
+
+	//Barrio: Centro historico  / Tipo: Compras
+	LAGUNILLA FLEA MARKET (SUNDAYS). Along Paseo de la Reforma between Calle Allende and the Cuitlahuac traffic circle north of the Centro Histórico. The city's largest flea market—a true delight—hawking every conceivable “treasure.”
+	MUMEDI. Madero 74; 5510 8609; mumedi.org; Mon 11:30 am-9 pm, Tues-Sun 8 am-9 pm. Edgy Mexican design that makes for a great souvenir in hipster tees, toys, books and fashion accessories.
+	PALACIO DE LOS CONDES DE MIRAVALLE. Isabel la Católica 30 at Madero. The Centro's smartest address for shopping and dining, in a glorious seventeenth-century palace. High-end handicrafts to pastries, deli and chocolate, bookstores, a hip cantina and more.
+
+	//Barrio: Centro historico  / Tipo: Hoteles
+	DOWNTOWN. Isabel la Católica 30; 5130 6830; downtownmexico. com. The chic boutique comes downtown, occupying the top floor of a grand colonial palace. Rooms evince high, if monastic, style; hotties jam the rooftop bar. Who knew the seventeenth century was so damn sexy?
+	GRAN HOTEL DE LA CIUDAD DE ME?XICO. 16 de Septiembre 82; 1083 7700; granhoteldelaciudaddemexico. com.mx. An impossibly grande dame from the beginnings of the twentieth century, loaded with arabesques and filigree, plus a prime location right on the Zócalo. Rooms deploy accordingly. Did we mention the lobby's Tiffany-glass ceiling?
+	HILTON MEXICO CITY REFORMA. Avenida Juárez 70; 5130 5300; hilton.com. An imposing modern tower and the area's international-class habitation, with a serious head for business.
+	HOTEL DE CORTE?S. Avenida Hidalgo 85; 5518 2181; boutiquehoteldecortes. com. Housed in a seventeenth century convent, a recent re-do has transformed interiors into some of the city's smartest accommodations. The rooftop bar is a scene on weekends.
+
+	//Barrio: Centro historico  / Tipo: Otros lugares y paseos
+	ALLE LÓPEZ / CALLE DOLORES. Loud and crowded, but art deco freaks thrill to the architecture.
+	CALLE MONEDA. One of the Centro's best-preserved stretches of ancient colonial architecture.
+	CALLE REPÚBLICA DE GUATEMALA. Wonderful, centuries-old townhouses, plus the Centro Cultural de España and the city's photographic museum.
+	CALLE REGINA. A sexy, bohemian mix of eat-, drink- and shopperies.
+	CALLE TACUBA reaches a climax at Plaza Tolsá, with magnificent constructions such as the National Museum of Art, the Palacio de Minería and the unbelievable 1903 “Postal Palace.”
+	PLAZA SANTA VERACRUZ features two beautiful baroque churches, Santa Veracruz and San Juan de Dios, tilted in opposite directions; between them stands the Museo Franz Mayer.
+	PLAZA SANTO DOMINGO. Home to colonial constructions and the eponymous parish church, scribes still practice their trade on rickety typewriters beneath the plaza's arcades.
+
+
+
+	//Barrio:  Roma / Tipo: Restaurantes
+	BELMONDO. Tabasco 109; 5533 1216; Mon-Fri 1 pm-11 pm, Sat 10 am-11 pm, Sun 10 am-5 pm. Chic “deli” where the beautiful people cram in, especially nights, for artisanal sandwiches, salads, and entrees, sophisticated cocktails and yummy desserts.
+	CONTRAMAR. Durango 200; 5514 3169; contramar.com.mx; Sun-Thurs 1-6:30 pm; Fri-Sat 1-8:30 pm. A hotspot that really delivers, Contramar serves Mexican-style fish and shellfish. The people- watching is second only to the food's rich, yet delicate flavor.
+	MÁXIMO BISTROT LOCAL. Tonala 133, Colonia Roma. 5264 4291; maxinobistro.com.mx; Tues-Sun 1-11 pm. Currently the DF's hottest table, living up to the hype. Hype about fresh, contemporary recipes, impeccable local ingredients, warm service and the cute bungalow setting.
+	ROMITA COMEDOR. Álvaro Obregón 49; 5525 8975; romitacomedor.com; Tues-Sat 1 pm-2 am, Sun 10 am-6 pm. Perched atop a fin de sie?cle townhouse, Romita serves updated Mexican and is pretty close to outright stunning. Nights are jammed and flirty; expect crowds.
+	ROSETTA. Colima 166 at Orizaba, Colonia Roma; 5533 8346; Mon-Sat 1-11 pm. The highly acclaimed Italian star that shows no signs of stopping, with an impeccable selection of salads and pastas, plus delicious seafood, steaks and chops, in a marvelous mansion setting.
+
+	//Barrio:Roma  / Tipo: Bares, Antros y Cantinas
+	CLUB SOCIAL RHODESIA. Durango 181; 5533 8208; clubsocialrhodesia.tv; Wed-Sat 11 pm-4 am. The club kids currently love the grooves at this insider venue tucked discreetly into a old Roma townhouse. Sexy and very fun.
+	COVADONGA. Puebla 121; 5533 2922; banquetescovadonga. com.mx; Mon-Fri 1 pm to 2 am. Never was fluorescent light so fashionable as at this old- school watering hole for the city's young writerly types (and superannuated domino players).
+	EL IMPERIAL. Álvaro Obregón 293; 5525 1115; Tues-Sat 10 pm to 3 am. Swank lounge/music venue with dazzling thriftshop-meets- bordello decor.
+	FéLIX. Álvaro Obregón 64; 5264 0318; Tues-Sat 4 pm to 2 am. A comfortable “corner bar” pretending not to be as fashionable as it really is. Pet- and people- watching friendly.
+	LA CLANDESTINA. Álvaro Obregón 298; 5525 1100; Tues- Sat 6 pm-2:30 am. Candlelit and intimate, with lots of eye-candy that just gets better as you have another artisanal mescal.
+	M.N. ROY. Mérida 186; Wed- Sat 11 pm to 6 am. Exclusive club, but you'll find a way in, to dance amid striking appointments, a creative drink menu and seriously sexy patrons.
+
+	//Barrio: Roma  / Tipo: Arte y Cultura
+	ARRÓNIZ ARTE CONTEMPORÁNEO. Plaza Río de Janeiro 53 at Durango; 5511 7965; arroniz-arte.com; Mon-Fri 10 am to 3 pm and 4 to 7 pm, Sat 11 am to 2 pm or by appointment. Neighborhood standout for drawing, prints, painting, sculpture, video and installation.
+	DESIRé SAINT PHALLE. Colima 25A; 5207 2369; desiresaintphalle.com; Wed-Fri 11 am-7 pm, Sat till 4. Focused on consolidated, contemporary “names,” and in varied media.
+	OMR. Plaza Río de Janeiro 54; 5511 1179; galeriaomr.com; Mon-Fri 10 am to 3 pm and 4 to 7 pm, Sat 10 am to 2 pm. Innovative, cutting-edge readings of the latest contemporary trends.
+	PROYECTOS MONCLOVA. Colima 55; 5525 9715; proyectosmonclova.com; Tues-Thurs 10 am-6 pm, Fri till 4 pm, Sat 11 am-4 pm. Experimental and well- regarded, with special emphasis on conceptual expressions.
+
+	//Barrio:  Roma / Tipo: Compras
+	 180 GRADOS. Colima 180; 5525 5626; 180grados.mx. Mexican-high-design clothing and accessories, everything from shoes, books and sunglasses to jewelry, bags and imported bikes.
+	 DR. YORK. Álvaro Obregón 187-B; 5207 9359; dr-york.com; Mon-Fri 11 am-8 pm, Sat till 5 pm. The city's chicest optician, featuring international brands and a great vintage selection.
+	 LA CONTRA. Álvaro Obregón 130; 5564 0966; Mon-Sat 11 am-9 pm. Specialty wine store focused on Baja and imported vintages. Well- curated with a knowledgeable staff.
+	 VéRTIGO GALERÍA. Colima 23; 5207 3590; vertigogaleria.com; Mon-Fri 12 to 8 pm, Sat 12 to 7 pm, Sun until 6 pm. Graphic design gallery and store specializing in 70s “junk” culture, surf music, skate and street art.
+
+	//Barrio: Roma  / Tipo: Hoteles
+	FOUR POINTS BY SHERATON. Álvaro Obregón 38; 1085 9500; starwoodhotels.com. Slick and efficient, with a nice break to the wallet. Being on the Roma's main drag puts fashionable shops and watering holes right at your feet.
+	LA CASONA. Durango 280, Roma; 5286 3001; hotellacasona.com.mx. La Casona's architecture offers a glimpse of the early twentieth century, French-inspired styles that characterized the Roma neighborhood when it was developed. Quiet rooms evince an old-school charm in quirky antiques and other belle-époque details.
+
+
+
+	//Barrio: Condesa  / Tipo: Restaurantes
+	AZUL CONDESA. Nuevo León 68; 5286 6380; azulcondesa.com; Mon-Sat 9-1 am, Sun till 7 pm. Rich, imaginative Mexican fare in one of the neighborhood's buzziest rooms.
+	BARRACUDA. Nuevo León 4-A; 5211 9480; barracudadiner.com; Mon-Fri 1 pm-2 am, Sat 12 pm-2 am, Sun 12 pm-12 am. The DF's answer to the retro diner, always a scene.
+	BONITO POPFOOD. Av. Nuevo León 103; 5286 6169; bonito.com. mx; Mon-Sat 1 pm-2 am, Sun 1-10 pm. The menu ranges from Mexican to Mediterranean and even Asian; the Luis Barragán dining room is stunning.
+	BRETÓN. Zamora 33, Condesa; 5211 7196; bretonrosticeros. com; Tues-Sat 2-10 pm, Sun till 6. Heavenly roasted chicken, turkey and pork, plus marvelous sides in a two-level rustic-glam space.
+	FRESCO BY DIEGO. Fernando Montes de Oca 23; 5553 1027; Mon-Sat 9:30 am-10 pm. Informal, fresh and delicious, a full range of savories and sweets. Breakfast especially recommended.
+	LA VINERÍA. Fernando Montes de Oca 52 A; 5553 9901; Mon-Sat 1 to 11 pm. A great little insider place for pasta and fresh food, buzzy yet rarely packed.
+	LAMPUGA. Ometusco 1; 5286 1525; Mon-Sat 1:30 to 2 am, Sundays till 6. Mediterranean with yummy salads, soups and seafood. Judiciously placed mirrors facilitate discreet people- watching.
+	MAQUE. Ozuluama 4; 2454 4662; daily 8 am to 10 pm, Sundays 8 am to 9 pm. Traditional pan dulce breakfast pastries, plus breakfasts like poblana-style enchiladas. You'll wish you could have coffee here every morning.
+	MEROTORO. Amsterdam 204; 5564 7799; merotoro.com; Mon- Sat 2 to 11:30 pm, Sun 2 to 6 pm. Merotoro blends Mediterranean and Mexican recipes in surprising ways, with exquisite, artisanal ingredients, drawn from heirloom farms all over Mexico, especially Baja California.
+	TACOS GRAND GUS. Ometusco 56; grangus.com; Mon-Fri 9 am-5 pm; Sat till 4. Legendary, beloved taco joint, famed for local ingredients, vegetarian options and artisanal beers.
+	PRIMOS. Michoacán 168; 5256 0950; Mon-Sat 6 pm to 12 am, Sundays 9 am to 6 pm (brunch till 1:30). The retro French bistro, tropicalized. Menu ranges widely with a nod to local as well as international tastes; the room stays chic year after year.
+
+	//Barrio: Condesa / Tipo: Bares, Antros y Cantinas
+	BAR LEONOR. Nuevo León 153; 5212 1018; Thurs-Sat 10 pm to 3 am. A favorite with Condesa players; the shadowy chic will impress you, as will the comely patrons.
+	EL DEPÓSITO. Baja California 375; 5271 0716; eldeposito.com. mx; Mon-Wed 12 pm-12 am, Thurs- Sat de 12 pm-2 am, Sun 1-10 pm. Ground zero for Mexico's emerging artisanal beer scene, fun and convivial.
+	EL DIENTE DE ORO. Plaza Iztaccíhuatl 36-B; 5264 4617; eldientedeoro.com; daily 6 pm to 2 am. Good whiskies are the specialty at this cozy, pub-chic joint.
+	FELINA. Ometusco 87; 5277 1917; Tues-Sat 6 pm-2am. The relaxed Condesa option, even on weekends, that attracts a winsome, nerdy-but-sexy set.
+	XEL-HA. Parral 78; 5553 5968; Mon-Sat 1 pm to 2 am, Sundays 1 to 7 pm. Slightly spiffy yet still authentic cantina. Signature Yucatecan fare is a cut above.
+
+	//Barrio:  Condesa / Tipo: Arte y Cultura
+	ARCHIVO DISEÑO Y ARQUITECTURA. Gral. Francisco Ramírez 4, Ampliación Daniel Garza; 2614 1063; archivonline.org; Mon-Fri 10 am-6 pm, Sat 10 am-2 pm. Some 1300 objects—originally belonging to architect Fernando Romero— inspire a rotating calendar of smart design exhibitions.
+	CASA LUIS BARRAGÁN. Gral. Francisco Ramírez 12-14, Ampliación Daniel Garza; 5515 4908; casaluisbarragan.org; Mon-Fri 10 am-2 pm and 4-6 pm, Sat 10 am to 1 pm. Call for required reservations. Visits to the former residence of Mexican architect Luis Barragán make it easy to understand why his work still influences and fascinates designers around the world.
+	GALERÍA DE ARTE MEXICANO (GAM). Rafael Rebollar 43, San Miguel Chapultepec; 5272 5529; galeriadeartemexicano.com; Mon-Fri 10 am-5 pm. More than 900 shows after its 1935 inaugural (and having represented greats like Rivera and Tamayo), gam is still a fundamental stop on the LatAm art circuit.
+	GALERÍA NINA MENOCAL. Rafael Rebollar 56, San Miguel Chapultepec; 5564 7209; ninamenocal.com; Mon-Fri 10 am-6 pm. A showcase for emerging artists—often with emphasis on work from Cuba—since 1990.
+	KURIMANZUTTO. Rafael Rebollar 94, San Miguel Chapultepec; 5256 2408; kurimanzutto.com; Wed-Thurs 10 am-7 pm, Fri-Sat 11 am-4 pm. One of the principal forces behind Mexico City's contemporary art boom—we always find something interesting there.
+	LABOR. Gral. Francisco Ramírez 5, Ampliación Daniel Garza; 6304 8755; labor.org.mx; Wed-Thurs 11 am-6 pm, Fri 11 am-4 pm, Sat 11 am-3 pm, also by appointment. A conceptual gallery with a particular eye for emerging young talent.
+
+	//Barrio: Condesa  / Tipo: Compras
+	CARMEN RION. Michoacán	30; 5264 6179; carmenrion.com; Mon-Fri 10 am-8 pm, Sat 11 am-8 pm. Mexican designer Carmen Rion focuses on fine, natural fibers for blouses, skirts and guayaberas. Colorful, one-of-a-kind apparel.
+	DANIEL ESPINOSA. Tamaulipas 72; 5211 3994; danielespinosa.com; Mon-Fri 11 am-2 pm, 3-8pm, Sat till 7 pm. Centuries-old technique applied to bold, contemporary jewelry.
+	MOB. Campeche 322; 5286 7239; mob.com.mx; Mon-Thurs 12-8 pm, Fri-Sat till 7. Design studio and store whose decorative pieces walk the subtle line between minimalism, luxe and pure fun.
+
+	//Barrio:  Condesa / Tipo: Hoteles
+	CONDESA DF. Veracruz 102; 5241 2600; condesadf.com. Still a marvelous neighborhood landmark. Rooms are beautifully appointed and the lobby is perennially jammed with denizens who look like stars, even if you can't quite place them. Drinks on the roof a must.
+	MARÍA CONDESA. Atlixco 132; 5286 5829; mariacondesa.com. This intimate boutique hostelry	is a breath of fresh air, perfectly located. Minimalist rooms feature marvelous sunlight and other colorful surprises. Don't miss the terrace or the cute downstairs bar.
+
+
+
+	//Barrio:  Zona Rosa / Tipo: Restaurantes
+	BELLINGHAUSEN. Londres 95; 5207 4978; daily 1 to 7 pm. Serving steaks and chops since the last days of the Revolution, Bellinghausen features immaculate, old-school décor, a lovely garden and flawless service.
+	BISTROT ARLEQUÍN. Río Nilo 42, Colonia Cuauhtémoc; 5207 5616; bistrotarlequin.com.mx; Mon-Sat 1:30-11:30 pm, Sun 1:30-5 pm. Arguably the DF's most authentic bistro, right down to the real French waiters.
+	LA FONDA EL REFUGIO. Liverpool 166; 5525 8128; daily 1-11 pm. Refined Mexican classics plus recipes you may not yet know, and a smash hit for 55 years (note the framed NewYork Times rave from 1969).
+	FUJI. Río Pánuco 128, Colonia Cuauhtémoc; 5514 6814; Mon- Sat 1-10:30 pm, Sun till 6 pm. Japanese comforts, favored by the city's Japanese community.
+	J&G GRILL. Hotel St. Regis, Paseo de la Reforma 439; 5228 1935; jggrilldf.com; daily 1 pm-12 midnight. Jean-Georges Vongerichten's Mexican outpost is nothing short of dazzling. Fine steaks and seafood served above a glamorous view of Reforma's La Diana fountain.
+	RESTAURANTE TAMAYO. Reforma at Gandhi (no number) at the edge of Chapultepec Park; 5286 6519, ext. 144; museotamayo.org; Tues-Sun 8 am-6 pm. Dazzling décor and terrace views make where to sit a hard decision. Classic museum lunching that gets chicer every day.
+	TEZKA. Amberes 78; 9149 3000; hotelroyalzr.com; Mon-Fri 8-11 pm, Sat 1-6 pm, Sun 1-5 pm. Basque cuisine that routinely garners raves.
+
+	//Barrio: Zona Rosa / Tipo: Bares, Antros y Cantinas
+	BELMONT. Milán 10, Colonia Juárez; 5535 9871; Mon-Fri 10 am-10 pm, Sat-Sun 1-8 pm. Traditional, quite spiffy cantina as well as forum for vociferous conversations among patrons and waitstaff alike. Raucous but endearing.
+	EL BAR IN THE FOUR SEASONS HOTEl. Paseo de la Reforma 500; 5230 1818; fourseasons.com. Overlooking the tranquil hotel garden, one of the city's most civilized cocktail oases.
+	KING COLE BAR. Hotel St. Regis, Paseo de la Reforma 439; 5228 1935; daily 11:30 am-2 am. Vegas-meets-Miami Beach appointments make it one of the most glamorous rooms in the city; terrace views are guaranteed to loosen up romantic partners.
+	SALÓN NIZA. Av. Chapultepec 259, Colonia Juárez; 5514 4671; Mon-Fri 1 pm-11 pm, Sat still 7 pm. A cantina from the old school with excellent service.
+
+	//Barrio: Zona Rosa  / Tipo: Arte y Cultura
+	MUSEO DE ARTE MODERNO. Paseo de la Reforma at Gandhi within Chapultepec Park; 5553 6233; mam.org.mx; Tues-Sun 10 am-5:30 pm. Mexican artists you know— Rivera, Siqueiros—as well as others you should know, in a sensual mid-century space that looks more fabulous every time we go.
+	MUSEO EXPERIMENTAL EL ECO. Sullivan 43, Colonia San Rafael; 5535 6233; www.eleco. unam.mx; Tues-Sun 11 am-6 pm. A provocative, modernist architectural jewel—whose surprising lines might outshine the art displayed within.
+	MUSEO NACIONAL DE ANTROPOLOGÍA. Paseo de la Reforma at Gandhi in Chapultepec Park; 5553 6386; mna.inah.gob. mx; Tues-Sun 9 am-7 pm. The Vatican Museum of Mexico's pre- Colombian civilizations, a must- see. If you're in a hurry, jump directly to the Maya and Aztec galleries for “greatest hits.” The 1966 structure still dazzles.
+	MUSEO NACIONAL DE HISTORIA (CHAPULTEPEC CASTLE). Chapultepec Park, original section; 4040 5214; mnh.inah.gob. mx;Tues-Sun 9 am-5 pm. The MNH presents Mexico's history in “stuff,” at a circa-1785 castle cum imperial palace. Fabulous furnishings, carriages and obje?ts d'art compete with spectacular city views.
+	MUSEO TAMAYO ARTE CONTEMPORÁNEO. Paseo de la Reforma at Gandhi in Chapultepec Park; 5286 6519; museotamayo. org; Tues-Sun 10 am to 6 pm. The permanent collection houses artists such as Rothko, Miró, and Max Ernst, etc; rotating exhibitions present some of Latin America's very best contemporary work.
+
+	//Barrio:  Zona Rosa / Tipo: Compras
+	DANIEL LIEBSOHN. Londres 161-49; 5525 2050; liebsohn.com. mx; Mon-Fri 10 am-6:30 pm, Sat 10 am-3 pm. DL is mind-blowing and fabulous: furniture and remnants as suitable for Versailles as they are for your own casita.
+	EXIT, LA LIBRERÍA. Río Pánuco 138, Colonia Cuauhtémoc; 5207 7868; exitmail.net; Mon-Fri 11 am-7 pm. Exquisite tomes on contemporary art, photography, architecture and visual culture.
+	FUSIÓN CASA DE DISEÑADORES. Londres 37, Juárez; proyectofusion.com.mx; Mon-Sat 12 am-8 pm, Sun 11 am-7 pm. Mexican designers sell jewelry, shoes and a thousand other must-have caprices.
+	TIENDA TAMAYO (AT THE MUSEO TAMAYO). Reforma at Gandhi, Chapultepec; 5553 3929; museotamayo.org;Tues-Sun 8 am-6 pm. Mexican and international design that spans from jewelry to wallpaper. Excellent book collections.
+
+	//Barrio:  Zona Rosa / Tipo: Hoteles
+	FOUR SEASONS HOTEL. Paseo de la Reforma 500; 5230 1818; fourseasons.com/mexico. Many consider it the city's best. Business travelers are close to major offices and travelers enjoy proximity to high-end shopping and restaurants.
+	SHERATON MARÍA ISABEL HOTEL AND TOWERS. Paseo de la Reforma 325; 5242 5555; starwoodlatinamerica.com. Smart and well run, highly favored by businesspeople. No quirks, which is precisely the point.
+	ST. REGIS HOTEL. Paseo de la Reforma 439; 5228 1818; starwoodhotels.com. Bling retro that feels current, yet almost exotic. Rooms are impeccable, with city views to match.
+	LE ME?RIDIEN. Paseo de la Reforma 69; 5061 3000; starwoodhotels.com. An excellent, close-in location on one of the city's most beautiful boulevards. 160 ample suites, perfect for taking care of business.
+
+
+	//Barrio: Polanco  / Tipo: Restaurantes
+	ANATOL. Hotel Las Alcobas. Masaryk 390; lasalcobas.com; Mon-Wed 1-10:30 pm, Thurs- Sat till 11:30, Sun till 5:30. An international mix of rustic recipes, organic Mexican ingredients, and a swank, big-city room.
+	ASTOR. Euler 145; 5545 7904; Mon-Sat 1 pm-12 am, Sun till 8 pm. Enormous Argentine steaks and pastas, with the right amount of edge.
+	AU PIED DE COCHON. Campos Elíseos 218, (in the Hotel Presidente); 5327 7756; aupieddecochon.com.mx; open 24/7. French bistro with a varied, well-prepared menu. Watch for misbehaving celebrities.
+	BELLARIA. Presidente Masaryk 514; 5282 0413; bellaria. com.mx; Mon-Sat 1:30-11:30 pm, Thurs-Sat till 11 pm, Sun till 6:30. Wood-fired pizzas, refined; nice pastas, too.
+	BIKO. Masaryk 407; 5282 2064; biko.com.mx; Mon-Sat 1:30-5 pm and 8 am-11 pm. Biko's kitchen—one of the city's finest—lets you choose from two menus: contemporary or more traditional Basque.
+	BISTRO CHARLOTTE. Lope de Vega 341-A; 5250 4180; Mon- Fri 1-6 pm, Sun 11 am-1 pm. Signature risottos and roast beef garner raves citywide.
+	BRASSI. Virgilio 8; 5281 4357; brassi.com.mx; Tues-Sun 1:30 pm-2 am, Mon till 6:30 pm. A darling boi?te famed for its wine list, live jazz and well-crafted sandwiches, pastas and entrees.
+	BROS OYSTER BAR. Lope de Vega 226; 5250 1325; Mon-Wed 1-11:30 pm, Thurs-Sat 1 pm-12 am, Sun 2 to 6 pm. Boston-style raw bar, packed, paneled and popular.
+	D.O. Hegel 406; 5255 0912; Mon-Sat 1 pm-11:30, Sundays 1-5. Spanish comforts updated with fine ingredients in a mod, buzzy atmosphere.
+	DULCINEA. Oscar Wilde 29; 5280 8909; dulcinea.mx; Tues-Sat 9-1 am, Sun-Mon till 6. “Urban Mexican,” locavore delights that celebrate the nation's variety and taste, in simple yet little-known iterations.
+	EL BAJÍO. Alejandro Dumas 7; 5281 8245; restauranteelbajio. com.mx; Mon-Sat 8:30 am-11 pm, Sun 9 am-10 pm. Stylish, brightly- colored and contemporary, but the Mexican fare that comes out of the kitchen is pura tradición: rich, delicious and fiercely caloric.
+	EL COMENSAL. Emilio Castelar 44; 5280 4254; open daily 1:30 pm-2 am. Catalonian/ Spanish, but not your grandmother's tapas and jamón.
+	IVOIRE. Emilio Castelar 95; 5280 0477; ivoire.com.mx; Mon- Sat 1:30 pm to midnight; Sundays till 6. “French colonial” fusions (Africa, Morocco, Indochina) in an intimate, rustic-luxe setting.
+	KAAH SIIS. Schiller 331; 5250 0274; kaahsiis.com; Tues-Sat 1 pm-11:30 pm, Sun-Mon till 6. It means “fresh place” in Maya, and that's the deal: delicious, rarefied and locavore viands, seafood and lots of vegetarian options—in a chic, sleek room that's anything but hippie.
+	LA EXCE?NTRICA. Schiller 333; 2624 0361; Tues-Fri 8 am-2 am, Sun-Mon 8 am-8 pm. High toned for down-home: tacos, and “eccentric” Mexi-takes on hamburgers and sandwiches.
+	LA HACIENDA DE LOS MORALES. Vázquez de Mella 525; 5283 3055; haciendadelosmorales.com; open daily from 1 pm to 1 am. Set in a splendid old hacienda, a must-see. Never mind you and your date are the youngest ones in the place. Mexican, Spanish and continental standards.
+	NOVECENTO. Emilio Castelar 163; 5280 4619; novecento.com; Thurs-Sat 8-1 am, Sun-Mon till 11. Argentine bistro in that new, old- fashioned way. Steaks, seafood and good wine; raw bar.
+	PUJOL. Francisco Petrarca 254; 5545 4111; pujol.com. mx; lunch Mon-Sat 1:30-5 pm, dinner 7 pm-10:30 pm. Chef Enrique Olvera's perfect balance of ingredients, delicate presentation and all kinds of Mexican flavor. Routinely called the city's finest restaurant.
+	QUINTONIL. Newton 55, Polanco; 5280 2680; quintonil. com; Mon-Sat 1-5 and 7-11	pm. Contemporary Mexican newcomer with a major emphasis on the locavore. Tasting menu highly recommended.
+	TOMILLO. Oscar Wilde 20-2; 5281 7216; tomillo.com.mx; Tues-Sat 1-11 pm, Sun till 6. That little place with the perfect vibe. Mediterranean flavors; lovely on afternoons. Specials highly recommended.
+	TORI TORI. Temístocles 61; 5281 8112; toritori.com.mx; Mon-Sat 1-11 pm, Sun 1-7 pm. A retro-modernist “honeycomb” is the backdrop for traditional Japanese fare.
+
+	//Barrio: Polanco / Tipo: Bares, Antros y Cantinas
+	BAR ÁREA. Masaryk 201 (Hotel Habita); 5282 3100; Mon- Wed 7 pm-12 am, Thurs-Sat till 2. The hotel terrace plus city views make everyone feel chic; eye- candy abounds.
+	BAR TOMATE. Emilio Castelar 229; 5280 6099; grupotragaluz. com; Mon-Wed 1:30 pm-12 am,Thurs-Sat till 1 am, Sun till 6.
+	Tasty, tomato-heavy lunches by day; after nightfall, well-turned out singles flirt and folly.
+	BIG RED. Masaryk 101; 5255 5277; bigs.fishers.com.mx; Mon 12-10 pm, Tues till 12 am, Wed-Sat till 2 am. Packed, loud, younger— with surprisingly good service, hot music and quite decent grub.
+	JULES BASEMENT. Julio Verne 93 (basement; enter at the rear of the restaurant); 5280 1278; julesbasement.com; Tues-Sun 8 pm-2 am. No one enters, they say, who's not on the list. Talk to concierges or connected friends; some say telephone entreaties work. Flawless décor, libations and patrons await those who pass muster.
+	RAGGA AND JOY ROOM. Ejército Nacional 843-B, (Antara Polanco mall); Wed-Sat 10 pm to 3 am. Ragga and Joy Room (part of an expansive nightlife complex) are dazzling—in everything from décor to well- heeled, knockout revelers.
+
+	//Barrio: Polanco  / Tipo: Arte y Cultura
+	GALERÍA ENRIQUE GUERRERO. Horacio 1549; 5280 5183; galeriaenriqueguerrero. com; Mon-Fri 10:30 am-2:30 pm and 5-7 pm, Sat 11 am-2 pm (by appointment). Contemporary visual arts.
+	LÓPEZ QUIROGA. Aristóteles 169; 5280 1710; lopezquiroga. com; Mon-Fri 10 am-7 pm, Sat 10 am-2 pm. Legacy artists and photography.
+	LUIS ADELANTADO ME?XICO. Laguna de Términos 260, Anáhuac; 5545 6645; luisadelantadomexico.com; Mon-Sat 10 am-2 pm and 3-7 pm. Contemporary and conceptual arts.
+	PATRICIA CONDE. Lafontaine 73; 5290 6345; patriciacondegaleria.com; Mon- Fri 11 am-6 pm, Sat 12-5 pm. Photography.
+	FUNDACIÓN/COLECCIÓN JUMEX. Bulevar Miguel de Cervantes 303, Colonia Ampliación Granada; lacoleccionjumex.org;Tues-Sun 11 am-8 pm. An international must-see for contemporary art lovers, Latin America's most important collection set up shop in Nuevo Polanco in November 2013. The sleek museum structure, by Brit architect David Chipperfield, is a stunner.
+	MUSEO SOUMAYA. Miguel de Cervantes 303, Colonia Ampliación Granada; 5616 3731; soumaya.com. mx. A wide-ranging collection with a notable number of Dalís and Rodins, plus lots of surprises from artists you may not know. Its futuristic home is a stellar attraction, too.
+
+	//Barrio: Polanco  / Tipo: Compras
+	ANTARA POLANCO. Ejército Nacional 843, Col. Granada; 4593 8870; antara.com.mx; store hours vary. Surely DF's smartest mall, whose architecture chic-competes with fashionable eateries and high- end boutiques therein contained.
+	COMMON PEOPLE. Emilio Castelar 149; 5281 0800; commonpeople.com.mx; Tues-Sat 11 am-9 pm, Sun till 8. A mansion- ful of the best designer stuff available, displayed with a loving appreciation of the rococo.
+	ESRAWE. Dumas 161; 5553 9611; esrawe.com; Mon-Fri 9:30 am-7 pm, Sat 11 am-6 pm. Fun, original showroom for contemporary Mexican interior design pieces.
+	PIRWI. Dumas 124; 1579 6514; pirwi.com; Mon-Thurs 10 am-8 pm, Fri till 3, Sat 10 am-6 pm. Striking, sustainable furniture.
+	TANE. Masaryk 430; 5282 6200; tane.com.mx; Mon-Fri 10 am-7 pm, Sat 11 am-3 pm. Contemporary jewelry and obje?ts d'art—in brilliant silver.
+	TRISTA. 5250 3623 (by appointment only); trista.com.mx. The Mexican couture house of the moment, designs are contemporary and clean, filled with interest.
+
+	//Barrio:  Polanco / Tipo: Hoteles
+	CAMINO REAL. Mariano Escobedo 700; 5263 8888; caminoreal.com. Ricardo Legorreta's extravagant, colorful modernism seems as current as ever. The porte- coche?re fountain and a mural by Rufino Tamayo merit a look-see.
+	HABITA. Masaryk 201; 5282 3100; hotelhabita.com. Mexico City's original design hotel and still a favorite.
+	HYATT REGENCY MEXICO CITY. Campos Elíseos 204; 5083 1234; mexicocity.regency.hyatt.com. Frequented by businesspeople, with everything just so. Spectacular city views.
+	LAS ALCOBAS. Masaryk 390; 3300 3900; lasalcobas.com. Chic yet comfortable, modern lines, bold furnishings and warm, creamy hues. Perfect location for shopaholics.
+	W MEXICO CITY. Campos Elíseos 252; 9138 1800; starwoodhotels.com. The sexpot of the Campos Elíseos strip, she's still got it—including what you need for business.
+
+
+
+	//Barrio:  Poniente / Tipo: Restaurantes
+	BAKE?A. Sierra Ventana 700, Lomas de Chapultepec; 5520 6954; bakea.com.mx; Mon-Sat 1:30 to 10 pm. An elegant, insider hideaway for excellent Basque-French comforts.
+	BEREIZ. Av. Santa Fe 94 (Plaza Samara), Santa Fe; 5292 4753; berezi.mx; Mon-Sat 1:30- 10 pm, Sun rill 6:30. Spanish “gastrobar” with notable Basque accents, courtesy chef Norma de la Sierra.
+	CAFE? O. Monte Líbano 245, Lomas de Chapultepec; 5520 9227; Mon-Wed 7:30 am-11:15 pm; Thurs- Sat 7:30-12am; Sun 9 am-5 pm. Sleek and sexy deli, with interesting salads and a highly acclaimed hamburger.
+	CAFE? TORINO. Vasco de Quiroga 1700, Santa Fe; 5292 2486; Mon-Sat 1-11 pm; Sun 1-6 pm. When you're ready for Italian, many say chef Alfredo Russo's is among the best in the city, amid fabulous retro furnishings and an old-style trattoria feel.
+	ENO. Explanada 730, Lomas de Chapultepec; 5202 9808; eno.com. mx; daily 9 am-9 pm. Chef Olvera of Pujol brings signature style and good taste to his high-end deli and wine shop.
+	LA LORENA. Monte Líbano 265, Lomas; 5202 4594; lalorena.com. mx; Mon-Fri 7:30 am-7 pm, Sat-Sun 8 am-8pm. Spectacular décor—with intense European pastries to match.
+	PUNTARENA. Palmas 275-B, Lomas; 5520 1723; puntarena.com. mx; Mon-Sat 1:30-11 pm, Sun 1-6 pm. The emphasis is on seafood, with recipes that combine Mediterranean, Mexican and even Asian influences, served in a lively, sophisticated atmosphere.
+	QUATTRO. Av. Santa Fe 160 (Hotel JW Marriot), Santa Fe; 9177 9727; quattro.com.mx; Mon- Sat 1pm-12 am, Sun till 6pm. Spectacular Italian by celebrity chefs Nicola and Fabrizio Carro.
+	ROCA. Monte Athos 310, Lomas; 5202 4234; restauranteroca.com.mx; Mon-Fri 1:30-11 pm, Sat-Sun till 6. Old- school surf and turf in a swank, intimate setting.
+	SHU. CalleTres 55; 6276 4410; shu.com.mx; Mon-Thurs 1-11:30 pm, Fri-Sat 1 pm-12 am, Sun till 7. Japanese as never before, with delicious Mexican accents amid the latest technical innovations.
+
+	//Barrio: Poniente / Tipo: Bares, Antros y Cantinas
+	DISTRITO CAPITAL. Juan Salvador Agraz 37, Santa Fe; 5257 1300; hoteldistritocapital.com. The area's chicest hotel lounge with impeccable mixology; great for people-watching.
+	HYDE. Tamarindos 90, Colonia Bosques de las Lomas (Torre Arcos); Thurs-Sat 11 pm to 4 am. Ultra- elegant club with great djs and a well-heeled, hottie clientele.
+	PALMAS KARAOKE. Paseo de las Palmas 530, Lomas de Chapultepec; 5540 1000; palmaskaraoke.com.mx; Wed-Fri 6 pm-3 am, Sat 8 pm till closing. DF karaoke reaches its zenith: 30,000 hits in a manic disco atmosphere.
+
+	//Barrio:  Poniente / Tipo: Arte y Cultura
+	SIN ENTRADAS
+
+	//Barrio:  Poniente / Tipo: Compras
+	BOOKS, BOOKS, BOOKS. Monte Ararat 220, Lomas Barrilaco; 5540 4778; Mon-Sat 10 am-7 pm. The city's most complete English- language bookshop.
+	CAÑAMIEL. Av. Javier Barros Sierra 540, Lomas de Santa Fe; 5292 3869; canamielmx.com; daily 11 am-8 pm. Delicious design—clothing, accessories and jewelry—with an emphasis on Mexican and Latin American couturiers.
+	PUNTO I COMA. Monte Himalaya 815, Lomas de Chapultepec; 2623 0288; Mon-Fri 11 am-8 pm, Sat 11 am-7 pm. High- style leather goods, swimwear and jewelry—every girl's essentials for the urban jungle.
+	YAKAMPOT. Vosgos 103, int. 3, Lomas Virreyes; 5540 4132; yakampot.com; Mon-Fri 9 am-6 pm. Dazzling contemporary apparel, fashioned in partnership with Mexico's finest regional artisans.
+
+	//Barrio:  Poniente / Tipo: Hoteles
+	CAMINO REAL. Guillermo González Camarena 300, Santa Fe; 5004 1616; caminoreal.com. The venerable Mexican chain's Santa Fe outpost, emphasis on flawless, personalized customer-service.
+	DISTRITO CAPITAL. Juan Salvador Agraz 37, Santa Fe; 5257 1300; www.hoteldistritocapital. com. Arresting modernist style, in cool grays and whites, plus fantastic retro furnishings and bold contemporary artworks; service is chic and detail-oriented.
+	SHERATON SANTA FE. Guillermo González Camarena 200, Santa Fe; 5258 8500; starwoodhotels.com. Santa Fe's first hostelry, still looking good. Large rooms perfect for long- term stays.
+	WESTIN SANTA FE. Javier Barros Sierra 540, Lomas de Santa Fe; 5089 8000; starwoodhotels. com. Every Westin comfort plus spectacular city views. The rooftop pool is downright hallucinogenic.
+
+
+
+	//Barrio:  Sur / Tipo: Restaurantes
+	AZUL Y ORO. Centro Cultural Universitario, on the University of Mexico campus; 5622 7135; cafeazulyoro.com; Mon-Tues 10 am-6 pm, Wed-Sat 10 am-8 pm, Sun 10 am-7 pm. Simple but delicious chef-prepared Mexican fare, in a lively, stylish setting.
+	CORAZÓN DE ALCACHOFA. Camino al Desierto de los Leones 15, San Ángel; 5550 5003; corazondealcachofa.com; Mon- Wed 1:30-11 pm, Thurs-Sat 1:30 pm- 12 am, Sun 1:30-7 pm. Freshness and simplicity are the key: from organic produce to handmade pasta and the minimalist décor.
+	DOBA GOURMET. Av. de las Fuentes 557, Jardines del Pedregal; 6267 2274; dobagourmet.com.mx; Tue-Fri 7:30-6 pm, Sat-Sun 8 am-7 pm. Homestyle faves taken to a higher plane as well as less-common fortés like risottos and salads.
+	LOS DANZANTES. Plaza Jardín Centenario 12, Coyoacán; 5554 1213; losdanzantes.com; Mon- Fri 1:30-12 am, Sat-Sun 9-2 am. Updated Mexican specialties in a charmingly bohemian setting.
+	PAXIA. Av. de la Paz 47, San Ángel; 5616 6964; danielovadia. com.mx; Mon-Sat 1 pm-12 am, Sun till 6. Traditional Mexican dishes that oscillate between nostalgic and experimental, courtesy of celebrated chef Daniel Ovadía.
+	SAN ÁNGEL INN. Diego Rivera 50 at Altavista, Colonia San Ángel Inn; 5616 1402; sanangelinn.com; Mon-Sat 8 am-1 am, Sun till 10 pm. The classic hacienda dining experience. Many claim it's home to the DF's best martini.
+	7 SUD 777. Boulevard de la Luz 777, Jardines del Pedregal; 5568 4777; sud777.com.mx; Mon-Tue 8 am-11 pm, Wed-Sat 8 am-11:30 pm, Sundays 9 am-5:30 pm. A zen-like setting is the backdrop for contemporary recipes that range from French to steakhouse.
+	TRATTORIA DELLA CASA NUOVA. Av. de la Paz 40, San Ángel; 5616 2288; Mon 6 pm-12 am; Tues-Fri 8-12 am, Sat 9-12 am, Sun 9 am-11 pm. A swell trattoria favored by the local gentry. Pastas, salads and viands are equally delicious.
+
+	//Barrio: Sur / Tipo: Bares, Antros y Cantinas
+	CORAZÓN DE MAGUEY. Jardín Centenario 9, Coyoacán; 5659 3165; corazondemaguey. com; Sun-Wed 1 pm-1 am, Thurs- Sat 1pm-2 am. Rich, smoky Oaxaca mescals are the specialty, in a kicky, Mexico-hip ambience.
+	COTTON CLUB. Insurgentes Sur 2113, San Ángel; 5616 6828; cottonclubmexico.com; Thurs-Sat 8 pm-3 am. Classic DF karaoke: no cover, good sound and 5000 heartbreaking, hard-rocking songs.
+	EL HIJO DEL CUERVO. Jardín Centenario 17, Coyoacán; 5658 7824; elhijodelcuervo.com.mx; Mon-Wed	4 pm-12 am, Thurs-Sat 1 pm-2 am, Sun 12 pm-12 am. A neighborhood institution. Snag a sidewalk table for great people watching.
+	LA BIPO. Malitzín 155, Coyoacán; 5484 8230; Mon-Tue 1 pm-1 am, Thurs-Sat 1 pm-2:30 am, Sun 1 pm- 10 pm. Neo-cantina that fills with hipsters as day enters night; seek a rooftop table on sunny afternoons.
+	LA COYOACANA. Higuera 14, Coyoacán; 5658 5979; Sun- Mon 12 pm-12 am, Tues-Wed till 1, Thurs-Sat till 2. An ample, everybody welcome cantina in the traditional vein.
+
+	//Barrio:  Sur / Tipo: Arte y Cultura
+	MUSEO ANAHUACALLI. Museo 150, Colonia San PabloTepetlapa; 5617 4310; museoanahuacalli.org.mx; Wed- Sun 11 am to 5 pm. A spectacular, fortress-like pile built by Diego Rivera to house his pre-Hispanic art collection.
+	MUSEO DE ARTE CARRILLO GIL. Avenida Revolución 1608 at Altavista, Colonia San Ángel; 5550 6260; museodeartecarrillogil.com; Tues-Sun 10 am to 6 pm. Emphasis on emerging artists plus a permanent collection that includes Rivera, Orozco and Siqueiros.
+	MUSEO CASA-ESTUDIO D. RIVERA Y F. KAHLO. Diego Rivera at Altavista, Colonia San Ángel Inn; 5550 1518; estudiodiegorivera.bellasartes. gob.mx; Tues- Sun from 10 am to 6 pm. A striking two-residence compound—one for Diego, one for Frida—designed by celebrated Mexican artist Juan O'Gorman.
+	MUSEO FRIDA KAHLO (CASA AZUL). Londres 247, Colonia Coyoacán; 5554 5999; museofridakahlo.org.mx; Tues-Sun from 10 am to 5:45 pm. Frida Kahlo's birthplace and the house she shared with Diego Rivera. Filled with fabulous relics.
+	MUSEO LEÓN TROTSKY. Río Churubusco 410, Colonia Del Carmen Coyoacán; 5554 0687. Russian revolutionary Leon Trotsky's Mexico City house until his 1940 assassination, left practically untouched since. Dusty, gristly fun.
+	MUSEO UNIVERSITARIO ARTE CONTEMPORÁNEO (MUAC). Insurgentes Sur 3000 on the Ciudad Universitaria campus; 5622 6972; muac.unam.mx; Wed, Fri and Sun 10 am to 6 pm; Thurs and Sat 12 to 8 pm. A splendid space dedicated to the University's contemporary art collection, one of Mexico's most extensive.
+	
+	//Barrio: Sur  / Tipo: Compras
+	BAZAR DEL SÁBADO. Plaza San Jacinto, San Ángel; Sat 11 am-4 pm approximately. Indoor/outdoor market featuring leather, pottery, jewelry, sculpture, clothing, etc., by talented local artisans.
+	CENTRO CULTURAL ELENA GARRO. Fernández Leal 43, Coyoacán; conaculta.gob.mx/elena- garro. Bookstore (mostly Spanish- language) and cultural center whose stunning architecture and landscaping also merit a look-see.
+	HAPPENING STORE. Francisco I. Madero 10C, San Ángel; 5550 8971; happeningstore.tumblr.com. Wed-Fri 12-8 pm, Sat 11 am-8 pm, Sun 11 am-6 pm. Great selection of innovative design in apparel, shoes, accessories, etc.
+	
+	//Barrio:  Sur / Tipo: Hoteles
+	 
+})

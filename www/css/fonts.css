@@ -1,0 +1,20 @@
+@font-face {
+				font-family: 'MyriadProEmb';
+				src: url('fonts/myriadprobold.eot');
+				src: url('fonts/myriadprobold.eot?#iefix') format('embedded-opentype'),
+						 url('fonts/myriadprobold.woff') format('woff'),
+						 url('fonts/myriadprobold.ttf') format('truetype'),
+						 url('fonts/myriadprobold.svg#MyriadPro-Bold') format('svg');
+				font-weight: bold;
+				font-style: normal;
+		}
+@font-face {
+				font-family: 'MyriadProEmb';
+				src: url('fonts/myriadproregular.eot');
+				src: url('fonts/myriadproregular.eot?#iefix') format('embedded-opentype'),
+						 url('fonts/myriadproregular.woff') format('woff'),
+						 url('fonts/myriadproregular.ttf') format('truetype'),
+						 url('fonts/myriadproregular.svg#MyriadPro-Regular') format('svg');
+				font-weight: normal;
+				font-style: normal;
+		}
