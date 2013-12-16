@@ -122,12 +122,9 @@ a{
 					width     : 100%;
 				}
 		.calendar{
-text-align: center;
+text-align: left;
 font-size: 3rem;
 font-weight: 800;
-		}
-		.calendar-conteiner .last{
-			text-align: left !important;
 		}
 		.rotate {
 			-webkit-transform: rotate(-90deg);
@@ -145,10 +142,10 @@ font-weight: 800;
 			top: 7%;
 		}
 		.position-2{
-			float: left;
-			left: 15%;
+			float   : left;
+			left    : 12%;
 			position: fixed;
-			top: 3%;
+			top     : 3%;
 		}
 		.position-3{
 			float: left;
@@ -564,7 +561,8 @@ width: 95%;
 		text-align: center;
 	}
 	.calendar-conteiner{
-		text-align: center;
+		margin-left: 3.5%;
+		text-align : left;
 	}
 	.box img{
 		width: 2rem;
@@ -697,3 +695,10 @@ display: inline-block;
     margin-left: 48%;
     }
 
+#left .box{
+	text-align: left;
+
+}
+.active-box{
+	border-bottom : 1px solid #6E6E6E; 
+}
