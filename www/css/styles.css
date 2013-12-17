@@ -218,6 +218,15 @@ a:hover{
 	width      : 47%;
 }
 /*signos zodiacales*/
+.z-0{
+    background-image: url("img/z-0.png");
+    display: inline-block;    
+    width: 25px;
+    height: 19px;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    vertical-align: middle;
+	}
 .z-1{
     background-image: url("img/z-1.png");
     display: inline-block;    
@@ -698,5 +707,11 @@ display: inline-block;
 
 }
 .active-box{
-	border-bottom : 1px solid #6E6E6E; 
+ background-color:#ABABAB;
+ width: 30%;
+}
+.position-fixed{
+	position: relative;
+	right   : 32%;
+	top     : 19%;
 }
