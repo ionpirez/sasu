@@ -124,23 +124,34 @@ a{
 text-align: left;
 font-size: 3rem;
 font-weight: 800;
-}
-
+		}
+		.rotate {
+			-webkit-transform: rotate(-90deg);
+			-moz-transform: rotate(-90deg);
+			-ms-transform: rotate(-90deg);
+			-o-transform: rotate(-90deg);
+			transform: rotate(-90deg);
+			filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+			font-size: 3.5rem;
+		}
 		.position-1{
-			float       : left;
-			margin-right:3%;
+			float: left;
+			left: 0;
+			position: fixed;
+			top: 7%;
 		}
 		.position-2{
-			display: block;
+			float   : left;
+			left    : 12%;
+			position: fixed;
+			top     : 3%;
 		}
 		.position-3{
-			float      : left;
-			margin-left: 3%;
+			float: left;
+			left: 19%;
+			position: fixed;
+			top: 7%;
 		}
-				.position-1 img, .position-2 img, .position-3 img{
-			margin:0px;
-		}
-
 		.set{
 			text-align: center;
 			font-size: 3.5%;
@@ -534,14 +545,6 @@ width: 95%;
 		margin-left: 2%;
 		padding    : 4%;
 	}
-	.calendar-holder{
-		height        : 100%;
-		margin-left   : 16%;
-		margin-top    : 19%;
-		text-align    : center;
-		vertical-align: middle;
-		width         : 100%;
-	}
 	.box{
 		border-top: 1px solid #FFFFFF;
 		display: inline-block;
@@ -632,10 +635,8 @@ width: 95%;
 }
 .day{
 	color: #fff;
-font-size: 3.3rem;
-margin: 0px !important;
-width: 26%;
-float: left;
+	font-size: 4rem;
+	margin-bottom: -23%;
 }
 .side-left p{
 	margin-bottom: 1%;

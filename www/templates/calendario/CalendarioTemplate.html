@@ -1,26 +1,25 @@
-
 <div class="marco">
             <div class="holder">
                 <div class="header">
                 <a href="#">
                     <div class="header-row">
                         <div class="calendar-holder">
-                            <div class="position-1">
-                                <img src="css/img/dia/4.png">
+                            <div class="rotate position-1">
+                                <h1 id="dia_nombre">jueves</h1>
                             </div>
                             <div class="calendar position-2">
-                                <h1 class="day">2</h1>
+                                <h1 id="dia_num" class="day">2</h1>
                             </div>
-                        <div class="position-3">
-                            <img src="css/img/mes/1.png">
                         </div>
-                    </div>
+                        <div class="rotate position-3">
+                            <h1 id="mes_nombre">enero</h1>
+                        </div>
                     </div>
                 </a>
                     <div class="header-row set">
                         <img src="css/img/logo-1.png" style="width:70%; margin-top:5%;">
                     </div>
-                    <a href="lunaciones.html"> 
+                    <a href="#lunaciones"> 
                         <div class="header-row">
                             <img src="css/img/luna.png" class="luna">
                             <span class="z-11 position-fixed"></span>
@@ -251,7 +250,7 @@
                 </div>
                 <div class="decreto">
                     <div class="txt">
-                        <h1>Soy mi contribución al todo</h1>
+                        <h1 id="decreto">Soy mi contribución al todo</h1>
                     </div>
                     <div class="nav3">
                         <img class="logo-decreto" src="css/img/logo.jpg"/>
@@ -261,19 +260,37 @@
                     <div class="nav">
                         <img src="css/img/menu.png">
                         <div id="flow">
-                            <a href="ayuda.html">
+                            <a href="#ayuda">
                             <div class="row">
                                 <p>Ayuda</p>
                             </div>  
                             </a>  
-                            <a href="info.html">                      
+                            <a href="#info">                      
                             <div class="row">
                                 <p>Servicios</p>
                             </div>
                             </a>
                         </div>
                     </div>
-                    <h1>Luna Creciente en Acuario</h1>
+                    <h1 id="fase_lunar">Luna Creciente en Acuario</h1>
                 </div>
         </div> 
     </div> 
+    
+<script>
+        var f = new Date();
+var hoy=f.getDate() + "-" + (f.getMonth() +1) + "-" + f.getFullYear();
+    //alert(hoy);
+    
+    var meses = new Array ("Ene","Feb","Mar","Abr","May","Jun","Jul","Ago","Sep","Oct","Nov","Dic");
+    var diasSemana = new Array("Domingo","Lunes","Martes","Miércoles","Jueves","Viernes","Sábado");
+    
+    db.transaction(queryFaseLunar,errorCB);
+    //db.transaction(queryEclipse,errorCB);
+    db.transaction(queryDecreto,errorCB);
+    //db.transaction(queryLfc,errorCB);
+    
+    $("#dia_num").html(f.getDate());
+    $("#dia_nombre").html(diasSemana[f.getDay()]);
+    $("#mes_nombre").html(meses[f.getMonth()]);
+</script>
